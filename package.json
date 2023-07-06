@@ -1,0 +1,29 @@
+{
+  "name": "cargo_delivery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NordStream777/Cargo_delivery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NordStream777/Cargo_delivery/issues"
+  },
+  "homepage": "https://github.com/NordStream777/Cargo_delivery#readme",
+  "devDependencies": {
+    "auto-prefixer": "^0.4.2",
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "sass": "^1.63.6"
+  }
+}
